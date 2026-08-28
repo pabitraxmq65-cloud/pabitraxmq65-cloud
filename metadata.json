@@ -1,0 +1,6 @@
+{
+  "name": "Ampere Meter",
+  "description": "Real-time battery current (mA), charging speed, voltage, temperature, health diagnostics and charging session history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
